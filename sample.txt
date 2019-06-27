@@ -2,5 +2,4 @@ this is sample file
 this is modified by rajesh
 this is inside linux terminal
 this is modified by 2nd person
-this is undo line
 
